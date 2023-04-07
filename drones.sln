@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroneApi", "drones\DroneApi.csproj", "{598F0794-638D-4790-8FEF-B27D3FD1FD51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroneEntity", "DroneEntity\DroneEntity.csproj", "{94FEAB9F-592D-47E3-9973-3B9632CC67B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroneDTO", "DroneDTO\DroneDTO.csproj", "{33697F5C-18DC-45FF-999B-AC081C994224}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroneServices", "DroneService\DroneServices.csproj", "{18219777-E025-4D80-AF27-E70DBE599532}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroneRepositories", "DroneRepositories\DroneRepositories.csproj", "{A67B899D-ED98-4715-B978-6D24ECB5291A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestDrones", "NUnitTestDrones\NUnitTestDrones.csproj", "{D5A92C4D-145E-4C7F-81AF-10D7636AE1E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroneUtil", "DroneUtil\DroneUtil.csproj", "{AAD257DC-B8E6-42C4-8CEE-BBA78B2B69AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{598F0794-638D-4790-8FEF-B27D3FD1FD51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598F0794-638D-4790-8FEF-B27D3FD1FD51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598F0794-638D-4790-8FEF-B27D3FD1FD51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598F0794-638D-4790-8FEF-B27D3FD1FD51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94FEAB9F-592D-47E3-9973-3B9632CC67B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94FEAB9F-592D-47E3-9973-3B9632CC67B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94FEAB9F-592D-47E3-9973-3B9632CC67B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94FEAB9F-592D-47E3-9973-3B9632CC67B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33697F5C-18DC-45FF-999B-AC081C994224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33697F5C-18DC-45FF-999B-AC081C994224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33697F5C-18DC-45FF-999B-AC081C994224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33697F5C-18DC-45FF-999B-AC081C994224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18219777-E025-4D80-AF27-E70DBE599532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18219777-E025-4D80-AF27-E70DBE599532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18219777-E025-4D80-AF27-E70DBE599532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18219777-E025-4D80-AF27-E70DBE599532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A67B899D-ED98-4715-B978-6D24ECB5291A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A67B899D-ED98-4715-B978-6D24ECB5291A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A67B899D-ED98-4715-B978-6D24ECB5291A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A67B899D-ED98-4715-B978-6D24ECB5291A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A92C4D-145E-4C7F-81AF-10D7636AE1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A92C4D-145E-4C7F-81AF-10D7636AE1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A92C4D-145E-4C7F-81AF-10D7636AE1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A92C4D-145E-4C7F-81AF-10D7636AE1E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD257DC-B8E6-42C4-8CEE-BBA78B2B69AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD257DC-B8E6-42C4-8CEE-BBA78B2B69AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD257DC-B8E6-42C4-8CEE-BBA78B2B69AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD257DC-B8E6-42C4-8CEE-BBA78B2B69AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA79BB48-3C13-4EFE-92C4-4263378B05E6}
+	EndGlobalSection
+EndGlobal

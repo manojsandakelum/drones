@@ -1,0 +1,15 @@
+C:\Users\manoj.sandakelum\source\repos\drones\DroneEntity\bin\Debug\netcoreapp3.1\DroneUtil.dll
+C:\Users\manoj.sandakelum\source\repos\drones\DroneEntity\obj\Debug\netcoreapp3.1\DroneEntity.csprojAssemblyReference.cache
+C:\Users\manoj.sandakelum\source\repos\drones\DroneEntity\obj\Debug\netcoreapp3.1\DroneEntity.AssemblyInfoInputs.cache
+C:\Users\manoj.sandakelum\source\repos\drones\DroneEntity\obj\Debug\netcoreapp3.1\DroneEntity.AssemblyInfo.cs
+C:\Users\manoj.sandakelum\source\repos\drones\DroneEntity\bin\Debug\netcoreapp3.1\DroneEntity.deps.json
+C:\Users\manoj.sandakelum\source\repos\drones\DroneEntity\bin\Debug\netcoreapp3.1\DroneEntity.runtimeconfig.json
+C:\Users\manoj.sandakelum\source\repos\drones\DroneEntity\bin\Debug\netcoreapp3.1\DroneEntity.runtimeconfig.dev.json
+C:\Users\manoj.sandakelum\source\repos\drones\DroneEntity\bin\Debug\netcoreapp3.1\DroneEntity.dll
+C:\Users\manoj.sandakelum\source\repos\drones\DroneEntity\bin\Debug\netcoreapp3.1\DroneEntity.pdb
+C:\Users\manoj.sandakelum\source\repos\drones\DroneEntity\bin\Debug\netcoreapp3.1\DroneUtil.pdb
+C:\Users\manoj.sandakelum\source\repos\drones\DroneEntity\obj\Debug\netcoreapp3.1\DroneEntity.csproj.CoreCompileInputs.cache
+C:\Users\manoj.sandakelum\source\repos\drones\DroneEntity\obj\Debug\netcoreapp3.1\DroneEntity.csproj.CopyComplete
+C:\Users\manoj.sandakelum\source\repos\drones\DroneEntity\obj\Debug\netcoreapp3.1\DroneEntity.dll
+C:\Users\manoj.sandakelum\source\repos\drones\DroneEntity\obj\Debug\netcoreapp3.1\DroneEntity.pdb
+C:\Users\manoj.sandakelum\source\repos\drones\DroneEntity\obj\Debug\netcoreapp3.1\DroneEntity.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\manoj.sandakelum\source\repos\drones\DroneRepositories\bin\Debug\netcoreapp3.1\DroneRepositories.deps.json
+C:\Users\manoj.sandakelum\source\repos\drones\DroneRepositories\bin\Debug\netcoreapp3.1\DroneRepositories.dll
+C:\Users\manoj.sandakelum\source\repos\drones\DroneRepositories\bin\Debug\netcoreapp3.1\DroneRepositories.pdb
+C:\Users\manoj.sandakelum\source\repos\drones\DroneRepositories\bin\Debug\netcoreapp3.1\DroneEntity.dll
+C:\Users\manoj.sandakelum\source\repos\drones\DroneRepositories\bin\Debug\netcoreapp3.1\DroneUtil.dll
+C:\Users\manoj.sandakelum\source\repos\drones\DroneRepositories\bin\Debug\netcoreapp3.1\DroneEntity.pdb
+C:\Users\manoj.sandakelum\source\repos\drones\DroneRepositories\bin\Debug\netcoreapp3.1\DroneUtil.pdb
+C:\Users\manoj.sandakelum\source\repos\drones\DroneRepositories\obj\Debug\netcoreapp3.1\DroneRepositories.csprojAssemblyReference.cache
+C:\Users\manoj.sandakelum\source\repos\drones\DroneRepositories\obj\Debug\netcoreapp3.1\DroneRepositories.csproj.CoreCompileInputs.cache
+C:\Users\manoj.sandakelum\source\repos\drones\DroneRepositories\obj\Debug\netcoreapp3.1\DroneRepositories.AssemblyInfoInputs.cache
+C:\Users\manoj.sandakelum\source\repos\drones\DroneRepositories\obj\Debug\netcoreapp3.1\DroneRepositories.AssemblyInfo.cs
+C:\Users\manoj.sandakelum\source\repos\drones\DroneRepositories\obj\Debug\netcoreapp3.1\DroneRepositories.csproj.CopyComplete
+C:\Users\manoj.sandakelum\source\repos\drones\DroneRepositories\obj\Debug\netcoreapp3.1\DroneRepositories.dll
+C:\Users\manoj.sandakelum\source\repos\drones\DroneRepositories\obj\Debug\netcoreapp3.1\DroneRepositories.pdb

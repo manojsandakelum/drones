@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\manoj.sandakelum\\source\\repos\\drones\\DroneRepositories\\DroneRepositories.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\manoj.sandakelum\\source\\repos\\drones\\DroneEntity\\DroneEntity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\manoj.sandakelum\\source\\repos\\drones\\DroneEntity\\DroneEntity.csproj",
+        "projectName": "DroneEntity",
+        "projectPath": "C:\\Users\\manoj.sandakelum\\source\\repos\\drones\\DroneEntity\\DroneEntity.csproj",
+        "packagesPath": "C:\\Users\\manoj.sandakelum\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manoj.sandakelum\\source\\repos\\drones\\DroneEntity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\manoj.sandakelum\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://172.15.100.155:8081/repository/cloud-sol-artifacts-nuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\manoj.sandakelum\\source\\repos\\drones\\DroneUtil\\DroneUtil.csproj": {
+                "projectPath": "C:\\Users\\manoj.sandakelum\\source\\repos\\drones\\DroneUtil\\DroneUtil.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.32, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\manoj.sandakelum\\source\\repos\\drones\\DroneRepositories\\DroneRepositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\manoj.sandakelum\\source\\repos\\drones\\DroneRepositories\\DroneRepositories.csproj",
+        "projectName": "DroneRepositories",
+        "projectPath": "C:\\Users\\manoj.sandakelum\\source\\repos\\drones\\DroneRepositories\\DroneRepositories.csproj",
+        "packagesPath": "C:\\Users\\manoj.sandakelum\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manoj.sandakelum\\source\\repos\\drones\\DroneRepositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\manoj.sandakelum\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://172.15.100.155:8081/repository/cloud-sol-artifacts-nuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\manoj.sandakelum\\source\\repos\\drones\\DroneEntity\\DroneEntity.csproj": {
+                "projectPath": "C:\\Users\\manoj.sandakelum\\source\\repos\\drones\\DroneEntity\\DroneEntity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\manoj.sandakelum\\source\\repos\\drones\\DroneUtil\\DroneUtil.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\manoj.sandakelum\\source\\repos\\drones\\DroneUtil\\DroneUtil.csproj",
+        "projectName": "DroneUtil",
+        "projectPath": "C:\\Users\\manoj.sandakelum\\source\\repos\\drones\\DroneUtil\\DroneUtil.csproj",
+        "packagesPath": "C:\\Users\\manoj.sandakelum\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manoj.sandakelum\\source\\repos\\drones\\DroneUtil\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\manoj.sandakelum\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://172.15.100.155:8081/repository/cloud-sol-artifacts-nuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

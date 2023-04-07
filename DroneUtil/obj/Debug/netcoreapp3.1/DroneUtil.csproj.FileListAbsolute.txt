@@ -1,0 +1,9 @@
+C:\Users\manoj.sandakelum\source\repos\drones\DroneUtil\bin\Debug\netcoreapp3.1\DroneUtil.deps.json
+C:\Users\manoj.sandakelum\source\repos\drones\DroneUtil\bin\Debug\netcoreapp3.1\DroneUtil.dll
+C:\Users\manoj.sandakelum\source\repos\drones\DroneUtil\bin\Debug\netcoreapp3.1\DroneUtil.pdb
+C:\Users\manoj.sandakelum\source\repos\drones\DroneUtil\obj\Debug\netcoreapp3.1\DroneUtil.csprojAssemblyReference.cache
+C:\Users\manoj.sandakelum\source\repos\drones\DroneUtil\obj\Debug\netcoreapp3.1\DroneUtil.csproj.CoreCompileInputs.cache
+C:\Users\manoj.sandakelum\source\repos\drones\DroneUtil\obj\Debug\netcoreapp3.1\DroneUtil.AssemblyInfoInputs.cache
+C:\Users\manoj.sandakelum\source\repos\drones\DroneUtil\obj\Debug\netcoreapp3.1\DroneUtil.AssemblyInfo.cs
+C:\Users\manoj.sandakelum\source\repos\drones\DroneUtil\obj\Debug\netcoreapp3.1\DroneUtil.dll
+C:\Users\manoj.sandakelum\source\repos\drones\DroneUtil\obj\Debug\netcoreapp3.1\DroneUtil.pdb
