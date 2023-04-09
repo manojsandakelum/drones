@@ -8,6 +8,7 @@ using DronesServices;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -25,7 +26,24 @@ namespace DroneServices
             _medicationRepository = medicationRepository;
         }
 
-       
+        public IList<DispatchMedicationReturnDTO> GetListByDroneId(int id)
+        {
+            var list = (from dispatch in _dispatchRepository.GetListByDroneId(id)
+                                 join medication in _medicationRepository.GetAllAvailables() on dispatch.MedicationId equals medication.Id
+                                 select new DispatchMedicationReturnDTO
+                                 { 
+                                     DroneId = dispatch.DroneId,
+                                     MedicationId = dispatch.MedicationId,
+                                     Name = medication.Name,
+                                     Weight = medication.Weight,
+                                     NoOfMedications = dispatch.NoOfMedications,
+                                     Code = medication.Code,
+                                     Image = medication.Image
+
+                                 }).ToList();
+            return list;
+            
+        }
 
         public string Save(DispatchDTO medicationDTO)
         {

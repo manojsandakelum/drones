@@ -6,6 +6,7 @@ using System.Net;
 using System.Text.Json.Serialization;
 using System.Text.Json;
 using DronesDTO;
+using DroneServices;
 
 namespace DroneWebApi.Controllers
 {
@@ -20,7 +21,19 @@ namespace DroneWebApi.Controllers
             _dispatchService = dispatchService;
             _logger = logger;
         }
-
+        [HttpGet]
+        public IActionResult GetMedicationListByDroneId(int id)
+        {
+            try
+            {
+                return Ok(_dispatchService.GetListByDroneId(id));
+            }
+            catch (Exception ex)
+            {
+                _logger.LogInformation("getAllAvailables Error: " + ex.StackTrace);
+                return StatusCode((int)HttpStatusCode.InternalServerError, ex);
+            }
+        }
 
         [HttpPost]
         public IActionResult Post([FromBody]DispatchDTO dispatchDTO)

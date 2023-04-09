@@ -10,6 +10,7 @@ namespace DroneRepositories.Interfaces
     public interface IDroneRepository
     {
         public IList<DroneEntity> GetAllAvailables();
+        public IList<DroneEntity> GetAll();
 
         public DroneEntity GetById(int id);
 

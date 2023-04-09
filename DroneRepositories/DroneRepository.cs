@@ -13,6 +13,10 @@ namespace DroneRepositories
             _dronesDbContext = dronesDbContext;
         }
 
+        public IList<DroneEntity> GetAll()
+        {
+            return _dronesDbContext.Drones.ToList();
+        }
 
         public IList<DroneEntity> GetAllAvailables()
         {

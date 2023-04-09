@@ -33,8 +33,8 @@ namespace DroneServices
                     dto.Id = data.Id;
                     dto.Name = data.Name;
                     dto.Weight = data.Weight;
-                    dto.code = data.code;
-                    dto.image = data.image;
+                    dto.code = data.Code;
+                    dto.image = data.Image;
                     medicationReturns.Add(dto);
                 }
 
@@ -66,9 +66,9 @@ namespace DroneServices
                             }
                         }
                     }
-                    if (medicationDTO.code.Trim() != "")
+                    if (medicationDTO.Code.Trim() != "")
                     {
-                        bool isCodeMatch = Regex.IsMatch(medicationDTO.code, @"^\w+$", RegexOptions.IgnorePatternWhitespace);
+                        bool isCodeMatch = Regex.IsMatch(medicationDTO.Code, @"^\w+$", RegexOptions.IgnorePatternWhitespace);
                         if (!isCodeMatch)
                         {
                             return "Medication code only allow letters, numbers, underscore";
@@ -77,8 +77,8 @@ namespace DroneServices
                     MedicationEntity medicationEntity = new MedicationEntity();
                     medicationEntity.Name = medicationDTO.Name;
                     medicationEntity.Weight = medicationDTO.Weight;
-                    medicationEntity.code = medicationDTO.code;
-                    medicationEntity.image = Convert.FromBase64String(medicationDTO.image);
+                    medicationEntity.Code = medicationDTO.Code;
+                    medicationEntity.Image = Convert.FromBase64String(medicationDTO.Image);
                     _medicationRepository.Save(medicationEntity);
                     result = "Insert Suceess";
 
