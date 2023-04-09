@@ -1,0 +1,42 @@
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneServices\bin\Debug\net6.0\DroneServices.deps.json
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneServices\bin\Debug\net6.0\DroneServices.dll
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneServices\bin\Debug\net6.0\DroneServices.pdb
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneServices\obj\Debug\net6.0\DroneServices.csproj.AssemblyReference.cache
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneServices\obj\Debug\net6.0\DroneServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneServices\obj\Debug\net6.0\DroneServices.AssemblyInfoInputs.cache
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneServices\obj\Debug\net6.0\DroneServices.AssemblyInfo.cs
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneServices\obj\Debug\net6.0\DroneServices.csproj.CoreCompileInputs.cache
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneServices\obj\Debug\net6.0\DroneServices.dll
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneServices\obj\Debug\net6.0\refint\DroneServices.dll
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneServices\obj\Debug\net6.0\DroneServices.pdb
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneServices\obj\Debug\net6.0\ref\DroneServices.dll
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneServices\bin\Debug\net6.0\DroneDTO.dll
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneServices\bin\Debug\net6.0\DroneEntity.dll
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneServices\bin\Debug\net6.0\DroneRepositories.dll
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneServices\bin\Debug\net6.0\DroneUtil.dll
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneServices\bin\Debug\net6.0\DroneDTO.pdb
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneServices\bin\Debug\net6.0\DroneEntity.pdb
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneServices\bin\Debug\net6.0\DroneRepositories.pdb
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneServices\bin\Debug\net6.0\DroneUtil.pdb
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneServices\obj\Debug\net6.0\DroneServices.csproj.CopyComplete
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneServices\bin\Debug\net6.0\DroneServices.deps.json
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneServices\bin\Debug\net6.0\DroneServices.dll
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneServices\bin\Debug\net6.0\DroneServices.pdb
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneServices\bin\Debug\net6.0\DroneDTO.dll
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneServices\bin\Debug\net6.0\DroneEntity.dll
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneServices\bin\Debug\net6.0\DroneRepositories.dll
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneServices\bin\Debug\net6.0\DroneUtil.dll
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneServices\bin\Debug\net6.0\DroneDTO.pdb
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneServices\bin\Debug\net6.0\DroneEntity.pdb
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneServices\bin\Debug\net6.0\DroneRepositories.pdb
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneServices\bin\Debug\net6.0\DroneUtil.pdb
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneServices\obj\Debug\net6.0\DroneServices.csproj.AssemblyReference.cache
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneServices\obj\Debug\net6.0\DroneServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneServices\obj\Debug\net6.0\DroneServices.AssemblyInfoInputs.cache
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneServices\obj\Debug\net6.0\DroneServices.AssemblyInfo.cs
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneServices\obj\Debug\net6.0\DroneServices.csproj.CoreCompileInputs.cache
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneServices\obj\Debug\net6.0\DroneServices.csproj.CopyComplete
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneServices\obj\Debug\net6.0\DroneServices.dll
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneServices\obj\Debug\net6.0\refint\DroneServices.dll
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneServices\obj\Debug\net6.0\DroneServices.pdb
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneServices\obj\Debug\net6.0\ref\DroneServices.dll

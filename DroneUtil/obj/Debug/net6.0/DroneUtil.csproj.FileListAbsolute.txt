@@ -1,0 +1,24 @@
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneUtil\bin\Debug\net6.0\DroneUtil.deps.json
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneUtil\bin\Debug\net6.0\DroneUtil.dll
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneUtil\bin\Debug\net6.0\DroneUtil.pdb
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneUtil\obj\Debug\net6.0\DroneUtil.csproj.AssemblyReference.cache
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneUtil\obj\Debug\net6.0\DroneUtil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneUtil\obj\Debug\net6.0\DroneUtil.AssemblyInfoInputs.cache
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneUtil\obj\Debug\net6.0\DroneUtil.AssemblyInfo.cs
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneUtil\obj\Debug\net6.0\DroneUtil.csproj.CoreCompileInputs.cache
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneUtil\obj\Debug\net6.0\DroneUtil.dll
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneUtil\obj\Debug\net6.0\refint\DroneUtil.dll
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneUtil\obj\Debug\net6.0\DroneUtil.pdb
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneUtil\obj\Debug\net6.0\ref\DroneUtil.dll
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneUtil\bin\Debug\net6.0\DroneUtil.deps.json
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneUtil\bin\Debug\net6.0\DroneUtil.dll
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneUtil\bin\Debug\net6.0\DroneUtil.pdb
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneUtil\obj\Debug\net6.0\DroneUtil.csproj.AssemblyReference.cache
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneUtil\obj\Debug\net6.0\DroneUtil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneUtil\obj\Debug\net6.0\DroneUtil.AssemblyInfoInputs.cache
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneUtil\obj\Debug\net6.0\DroneUtil.AssemblyInfo.cs
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneUtil\obj\Debug\net6.0\DroneUtil.csproj.CoreCompileInputs.cache
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneUtil\obj\Debug\net6.0\DroneUtil.dll
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneUtil\obj\Debug\net6.0\refint\DroneUtil.dll
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneUtil\obj\Debug\net6.0\DroneUtil.pdb
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneUtil\obj\Debug\net6.0\ref\DroneUtil.dll

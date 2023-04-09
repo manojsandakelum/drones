@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mlVypayOqei8kDmyqlINs1T1D3Z0DwxdSks8pxR3NRxpm4s8iy8rZrmBt1/JJqPixMWNjTp/DbTBOWt03NYJ1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manoj.sandakelum\\Desktop\\Test\\DroneWithOpenAPI\\drones\\DroneUtil\\DroneUtil.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://172.15.100.155:8081/repository/cloud-sol-artifacts-nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

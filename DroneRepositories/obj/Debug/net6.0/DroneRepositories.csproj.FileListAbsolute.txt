@@ -1,0 +1,34 @@
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneRepositories\bin\Debug\net6.0\DroneRepositories.deps.json
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneRepositories\bin\Debug\net6.0\DroneRepositories.dll
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneRepositories\bin\Debug\net6.0\DroneRepositories.pdb
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneRepositories\obj\Debug\net6.0\DroneRepositories.csproj.AssemblyReference.cache
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneRepositories\obj\Debug\net6.0\DroneRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneRepositories\obj\Debug\net6.0\DroneRepositories.AssemblyInfoInputs.cache
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneRepositories\obj\Debug\net6.0\DroneRepositories.AssemblyInfo.cs
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneRepositories\obj\Debug\net6.0\DroneRepositories.csproj.CoreCompileInputs.cache
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneRepositories\obj\Debug\net6.0\DroneRepositories.dll
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneRepositories\obj\Debug\net6.0\refint\DroneRepositories.dll
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneRepositories\obj\Debug\net6.0\DroneRepositories.pdb
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneRepositories\obj\Debug\net6.0\ref\DroneRepositories.dll
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneRepositories\bin\Debug\net6.0\DroneEntity.dll
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneRepositories\bin\Debug\net6.0\DroneUtil.dll
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneRepositories\bin\Debug\net6.0\DroneEntity.pdb
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneRepositories\bin\Debug\net6.0\DroneUtil.pdb
+C:\Users\manoj.sandakelum\Desktop\Test\New folder\drones\DroneRepositories\obj\Debug\net6.0\DroneRepositories.csproj.CopyComplete
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneRepositories\bin\Debug\net6.0\DroneRepositories.deps.json
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneRepositories\bin\Debug\net6.0\DroneRepositories.dll
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneRepositories\bin\Debug\net6.0\DroneRepositories.pdb
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneRepositories\bin\Debug\net6.0\DroneEntity.dll
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneRepositories\bin\Debug\net6.0\DroneUtil.dll
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneRepositories\bin\Debug\net6.0\DroneEntity.pdb
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneRepositories\bin\Debug\net6.0\DroneUtil.pdb
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneRepositories\obj\Debug\net6.0\DroneRepositories.csproj.AssemblyReference.cache
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneRepositories\obj\Debug\net6.0\DroneRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneRepositories\obj\Debug\net6.0\DroneRepositories.AssemblyInfoInputs.cache
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneRepositories\obj\Debug\net6.0\DroneRepositories.AssemblyInfo.cs
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneRepositories\obj\Debug\net6.0\DroneRepositories.csproj.CoreCompileInputs.cache
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneRepositories\obj\Debug\net6.0\DroneRepositories.csproj.CopyComplete
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneRepositories\obj\Debug\net6.0\DroneRepositories.dll
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneRepositories\obj\Debug\net6.0\refint\DroneRepositories.dll
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneRepositories\obj\Debug\net6.0\DroneRepositories.pdb
+C:\Users\manoj.sandakelum\Desktop\Test\DroneWithOpenAPI\drones\DroneRepositories\obj\Debug\net6.0\ref\DroneRepositories.dll

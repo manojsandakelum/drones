@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DroneDTO/1.0.0": {
+        "dependencies": {
+          "DroneUtil": "1.0.0"
+        },
+        "runtime": {
+          "DroneDTO.dll": {}
+        }
+      },
+      "DroneUtil/1.0.0": {
+        "runtime": {
+          "DroneUtil.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DroneDTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DroneUtil/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
